@@ -1,56 +1,14 @@
-# Jekyll Incorporated
-Modern Jekyll based blog. Great for companies, products or anything. See live at [blog.sendtoinc.com](http://blog.sendtoinc.com)
+makehackvoid.com
+================
 
-## Installation & Usage
-    bundle install
-    jekyll serve --watch
+This project is to create a replacement for the front-facing MakeHackVoid website, visible at [makehackvoid.com](http://makehackvoid.com).
 
-_Note: Requires Ruby version 1.9.3 =>. For example use [rbenv](https://github.com/sstephenson/rbenv)_   
-    
-## Configuration
-Edit: _config.yml (general options), main.css (theme colors &amp; fonts)
+Technologies
+------------
+* Jekyll (1.1)
+* Twitter Bootstrap (3.0)
+* jQuery (1.10)
 
-```
-jekyll-incorporated/
-├── _config.yml
-├── _assets/
-    ├── stylesheets/
-        ├── main.scss
-```
-
-_Note: when editing _config.yml, you need to restart jekyll to see the changes.__
-
-    
-## Publish to Github Pages
-1. Add your domain to _CNAME_
-2. Edit your repo address at _Rakefile_
-    
-Run rake task. **NOTE: It will deploy the generated site to _gh-pages_ branch overwriting it**    
-``` 
-rake site:publish
-```
-
-## Authors
-
-Originally build for [sendtoinc.com](https://sendtoinc.com), your workspace for sharing and organizing knowledge
-
-**Karri Saarinen**
-
-+ [http://twitter.com/karrisaarinen](http://twitter.com/karrisaarinen)
-+ [http://github.com/ksaa](http://github.com/ksaa)
-
-**Jori Lallo**
-
-+ [http://twitter.com/jorilallo](http://twitter.com/jorilallo)
-+ [http://github.com/jorde](http://github.com/jorilallo)
-
-## Todo:
-
-+ Documentation
-+ Less config files
-+ Better deploy scripts
-
-## Copyright and license
-
-Copyright 2013 Kippt Inc. under [The MIT License ](LICENSE)
-
+License
+-------
+The licensed for this project will be finalised before public release. It is proposed that it be released under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
