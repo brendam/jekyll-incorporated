@@ -1,7 +1,7 @@
 makehackvoid.com
 ================
 
-This project is to create a replacement for the front-facing MakeHackVoid website, visible at [makehackvoid.com](http://makehackvoid.com).
+This project is to create a replacement for the front-facing MakeHackVoid website, visible at [makehackvoid.com](http://makehackvoid.com). hello klepas
 
 Technologies
 ------------
